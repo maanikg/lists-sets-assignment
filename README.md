@@ -15,10 +15,10 @@ The Fraction.java class is used to create Fraction objects.
 
 ListsAndSetsProb3.java is the program that addresses the third and final part of the assignment. This program does the following:
 - Program provides a simple GUI that allows user to view a deck of cards numbered 1 to 25(number of cards set by the user) that have been modified according to specific actions:
--   (1) The top card of the deck of cards is displayed
--   (2) The following card is moved to the bottom of the deck
--   (3) The following card is displayed
--   (4) The following card is moved to the bottom of the deck
+-     (1) The top card of the deck of cards is displayed
+-     (2) The following card is moved to the bottom of the deck
+-     (3) The following card is displayed
+-     (4) The following card is moved to the bottom of the deck
 - The above process is repeated until all cards in the deck are displayed. 
 - Assuming that all the cards in the deck are placed in consecutive order from 1 to the last card, the program finds the original order of the cards.
 
